@@ -13,6 +13,7 @@ Here are some of the technologies I work with:
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF3A6B?style=flat&logo=security&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-00A9E0?style=flat&logo=github-actions&logoColor=white)
 
 ## 📫 How to Reach Me
 
