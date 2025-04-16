@@ -1,4 +1,4 @@
-# Hi there, I'm [Bhavy] 👋
+# Hi there, I'm Bhavy 👋
 
 Welcome to my GitHub! I'm a passionate Developer and Cybersecurity Enthusiast, learning and exploring various technologies. Here, you'll find my projects and contributions.
 
